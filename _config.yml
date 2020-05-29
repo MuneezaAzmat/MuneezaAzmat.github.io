@@ -1,2 +1,4 @@
 name: Muneeza Azmat
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
