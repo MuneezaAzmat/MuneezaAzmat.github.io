@@ -35,16 +35,3 @@ include: ['_pages','_docs', '_drafts', '_resources', '_includes','_cv', "blog", 
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-   - _cv/CV.Rmd
-   - _cv/resume.Rmd
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
