@@ -3,3 +3,5 @@ title: Muneeza Azmat
 email: azmatmun@msu.edu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
